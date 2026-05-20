@@ -1,0 +1,72 @@
+{
+  "@@locale": "en",
+  "appTitle": "Personal Expense Tracker",
+  "expensesTitle": "Expenses",
+  "add": "Add",
+  "edit": "Edit",
+  "delete": "Delete",
+  "deleteExpenseTooltip": "Delete expense",
+  "editExpenseTooltip": "Edit expense",
+  "totalSpent": "Total spent",
+  "noExpensesRecordedYet": "No expenses recorded yet",
+  "expenseCount": "{count, plural, =1{1 expense recorded} other{{count} expenses recorded}}",
+  "@expenseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noExpensesYet": "No expenses yet",
+  "emptyExpenseMessage": "Add your first expense to start tracking your spending.",
+  "somethingWentWrong": "Something went wrong",
+  "retry": "Retry",
+  "addExpenseTitle": "Add expense",
+  "editExpenseTitle": "Edit expense",
+  "titleLabel": "Title",
+  "amountLabel": "Amount",
+  "dateLabel": "Date",
+  "noteLabel": "Note",
+  "noteHint": "Add a note (optional)",
+  "enterExpenseTitle": "Enter an expense title.",
+  "titleTooShort": "Title is too short.",
+  "enterValidAmount": "Enter a valid amount.",
+  "amountGreaterThanZero": "Amount must be greater than zero.",
+  "saving": "Saving",
+  "saveExpense": "Save expense",
+  "updateExpense": "Update expense",
+  "couldNotSaveExpense": "Could not save expense: {error}",
+  "@couldNotSaveExpense": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "home": "Home",
+  "settings": "Settings",
+  "settingsTitle": "Settings",
+  "darkMode": "Dark mode",
+  "lightMode": "Light mode",
+  "darkModeSubtitle": "Use a dark theme across the app",
+  "lightModeSubtitle": "Use a light theme across the app",
+  "currency": "Currency",
+  "selectCurrency": "Select currency",
+  "searchCurrency": "Search currency",
+  "noCurrencyFound": "No currency found",
+  "tutorialSkip": "Skip",
+  "tutorialHomeSummaryTitle": "Your spending at a glance",
+  "tutorialHomeSummaryDescription": "See your total spent and how many expenses you've recorded.",
+  "tutorialHomeAddTitle": "Add an expense",
+  "tutorialHomeAddDescription": "Tap the plus button to record a new expense.",
+  "tutorialSettingsThemeTitle": "Light or dark",
+  "tutorialSettingsThemeDescription": "Toggle to switch the app between light and dark mode.",
+  "tutorialSettingsCurrencyTitle": "Choose your currency",
+  "tutorialSettingsCurrencyDescription": "Pick the currency used across your expenses.",
+  "tutorialFormTitleFieldTitle": "Name your expense",
+  "tutorialFormTitleFieldDescription": "Give it a short, descriptive title.",
+  "tutorialFormAmountFieldTitle": "Enter the amount",
+  "tutorialFormAmountFieldDescription": "Numbers only — the currency symbol comes from your settings.",
+  "tutorialFormSaveButtonTitle": "Save it",
+  "tutorialFormSaveButtonDescription": "Tap here to save this expense to your list."
+}
